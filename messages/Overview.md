@@ -10,7 +10,7 @@
 
 | Code | Message | Link |
 | ---- | ------- | -----|
-| E2000 | No match for filename | https://github.com/BioplatformsAustralia/bpa-ingest/blob/a212eb233ef384e6f7c331791a01471540bdefa9/bpaingest/abstract.py#L37 |
+| [E2000](E2000.md) | No match for filename | https://github.com/BioplatformsAustralia/bpa-ingest/blob/a212eb233ef384e6f7c331791a01471540bdefa9/bpaingest/abstract.py#L37 |
 
 ## Metadata
 
