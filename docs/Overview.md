@@ -27,6 +27,8 @@
 | Code | Message | Link |
 | ---- | ------- | -----|
 | E4000 | PCR Value | https://github.com/BioplatformsAustralia/bpa-ingest/blob/40e8436f0d19316fb2cd0b0d626df55d90cd8346/bpaingest/libs/ingest_utils.py#L22 |
+| [E4001](E4001.md) | Problem capturing packages and resources | https://github.com/BioplatformsAustralia/bpaworkflow/blob/60c6d4546d2fe1b4d80927493a0305feb10c3073/bpaworkflow/bpaworkflow/tasks.py#L218 |
+
 
 ## System
 
