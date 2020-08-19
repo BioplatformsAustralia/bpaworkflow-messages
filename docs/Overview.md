@@ -18,6 +18,7 @@
 | ---- | ------- | -----|
 | E3000 | Invalid sample_extraction_id | https://github.com/BioplatformsAustralia/bpa-ingest/blob/40e8436f0d19316fb2cd0b0d626df55d90cd8346/bpaingest/libs/ingest_utils.py#L45 |
 | [E3001](E3001.md) | Missing column in submission sheet | https://github.com/BioplatformsAustralia/bpa-ingest/blob/a212eb233ef384e6f7c331791a01471540bdefa9/bpaingest/libs/excel_wrapper.py#L177 |
+| [E3002](E3002.md) | Column not mapped in submission sheet | https://github.com/BioplatformsAustralia/bpa-ingest/blob/a212eb233ef384e6f7c331791a01471540bdefa9/bpaingest/libs/excel_wrapper.py#L190 |
 
 ## Data
 
