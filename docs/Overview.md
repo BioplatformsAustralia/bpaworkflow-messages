@@ -11,6 +11,7 @@
 | Code | Message | Link |
 | ---- | ------- | -----|
 | [E2000](E2000.md) | No match for filename | https://github.com/BioplatformsAustralia/bpa-ingest/blob/a212eb233ef384e6f7c331791a01471540bdefa9/bpaingest/abstract.py#L37 |
+| [E2001](E2001.md) | File does not meet convention | https://github.com/BioplatformsAustralia/bpaworkflow/blob/60c6d4546d2fe1b4d80927493a0305feb10c3073/bpaworkflow/bpaworkflow/validate.py#L63 |
 
 ## Metadata
 
